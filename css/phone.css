@@ -6,6 +6,7 @@
 
 #navbar{
     flex-direction: column;
+    /* background: red; */
 }
 
 #navbar ul li a{
